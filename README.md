@@ -1,6 +1,6 @@
 # profile
 # 💫 About Me:
-🔭 I’m currently working on Web and application development.<br>👯 I’m looking to collaborate with other content creators<br>🌱 I’m currently creating projects.<br>⚡ Fun Fact I love playing piano and play chess.
+🔭 I’m currently working on Web and application development.<br>👯 I’m looking to collaborate with other content creators<br>🌱 I’m currently creating projects.<br>⚡ Fun Fact I love playing piano and chess.
 
 
 ## 🌐 Socials:
